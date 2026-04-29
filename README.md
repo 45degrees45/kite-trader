@@ -41,6 +41,10 @@ Open **http://localhost:8501**
 2. Create an app → get API Key + Secret
 3. Set redirect URL to `http://127.0.0.1/` (for local login)
 
+## Architecture
+
+See [docs/architecture.md](docs/architecture.md) for a full Mermaid diagram of how the components connect.
+
 ## File Structure
 
 ```
